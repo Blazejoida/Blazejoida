@@ -1,6 +1,6 @@
 # Hi, I'm Błażej
 
-I'm a 3rd-year **Computer Science student at Silesian University of Technology** in Katowice.
+I'm a 4th-year **Computer Science student at Silesian University of Technology** in Katowice.
 
 ---
 
